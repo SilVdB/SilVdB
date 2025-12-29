@@ -4,8 +4,8 @@ I'm a full-stack engineer specializing in TypeScript with 10+ years experience, 
 
 I'm a versatile engineer who fills gaps across the stack: smart contracts, backend, frontend, UX. A fast learner and reliable shipper with a team-first approach, I build calm, stable systems that don't require constant firefighting.
 
-Core technologies: TypeScript, Node.js, Solidity, Kubernetes, React  
-Certified: CKAD
+**Core technologies**: TypeScript, Node.js, Solidity, Kubernetes, React  
+**Certified**: CKAD
 
 Most work is in private repos, but always open to connecting with great engineers and interesting challenges.
 
