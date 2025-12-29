@@ -1,9 +1,14 @@
 Hi, I'm Silke 👋
 
-I'm a full-stack software engineer specializing in TypeScript, currently building asset tokenization platforms for financial institutions at [SettleMint](https://github.com/settlemint).
+I'm a full-stack engineer specializing in TypeScript with 10+ years experience, currently building Digital Asset Lifecycle Platforms for financial institutions at [SettleMint](https://settlemint.com)
 
-With 10+ years in JavaScript/TypeScript ecosystems, I focus on creating calm, stable systems that don't generate emergencies or single points of failure. I measure success in trust, ease, and autonomy.
+I'm a versatile engineer who fills gaps across the stack: smart contracts, backend, frontend, UX. A fast learner and reliable shipper with a team-first approach. I build calm, stable systems that don't require constant firefighting.
 
-Most of my work lives in private repositories, but I'm always open to interesting conversations about distributed systems, blockchain infrastructure, or building developer tools that don't make people's lives harder.
+**If the team wins, I win.**
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/silkevdb/)
+Core technologies: TypeScript, Node.js, Solidity, Kubernetes, React  
+Certified: CKAD
+
+Most work is in private repos, but always open to connecting with great engineers and interesting challenges.
+
+📫 [Let's talk](https://www.linkedin.com/in/silkevdb/)
